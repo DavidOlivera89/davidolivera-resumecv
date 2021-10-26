@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"David Olivera",
+    "description":"Software Developer, con título de Analista Programador Universitario y Licenciatura en Informática en proceso (realizando tesis) ",
+    "image":"profilepic.jpg",
+    "bio":"Mi nombre es David Omar Olivera, estoy a punto de recibirme de Licenciado en Informática y soy programador, poseo el título de Analista Programador Universitario. Me oriento principalmente a la programación web.",
+    "bio1":"Actualmente estoy buscando una oportunidad para poder desarrollar esta profesión en una empresa donde pueda continuar mi crecimiento tanto personal como profesional, ya que desde que terminé el secundario, trabajo como profesor de enseñanza técnica en dos escuelas de mi ciudad. Comencé a trabajar por necesidad cuando ingresé a la universidad pero luego me quedé porque descubrí que la educación también es una de mis pasiones. ",
+    "bio2":"Intento continuamente mejorar mis habilidades, aprendiendo, investigando, de manera autodidacta, con documentación o realizando cursos para trabajar de la mejor manera y alcanzar los objetivos que se me presentan.",
+    "bio3":"Considero que poseo muy buenas habilidades interpersonales como la empatía, la comunicación, la responsabilidad y el trabajo en equipo, habilidades que he ido ejercitando considerablemente a lo largo de mi experiencia como docente.",
+    "bio4":"Además de lo anterior algunos de mis otros intereses son la música, el cine, el fútbol y la literatura.",
+    "contactmessage":"Si lo desea puede ponerse en contacto conmigo enviándome un mensaje desde aquí, le responderé a la brevedad...",
+    "email": "davidolivera8989@gmail.com",
+    "phone": "2975945540",
+    "github":"https://github.com/davidolivera89",
+    "linkedin":"https://www.linkedin.com/in/david-omar-olivera89/",
+    "project":"../CV__DavidOmarOlivera.pdf",
+    "address":{
+      "street":"Comodoro Rivadavia",
+      "city":"Chubut -",
+      "state":"Argentina",
+      "zip": ""
+    },
+    "website": "https://github.com/davidolivera89/resume",
+    "resumedownload":"../CV__DavidOmarOlivera.pdf",
+    "social":[
+    
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/david-omar-olivera89/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/davidolivera89",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Aunque siempre me encuentro motivado para aceptar nuevos desafíos y enfoques aprendiendo lo que sea necesario para cumplir con objetivos y mejorar profesionalmente, a continuación listo las tecnologías que mejor manejo en la actualidad...",
+    "education":[
+      {
+        "key":"1",
+        "school":"Licenciado en Informática ",
+        "degree":"UNPSJB - Universidad Nacional de la Patagonia San Juan Bosco",
+        "graduated":"En proceso, realizando tesis. Planificado 2022.",
+        "description":""
+      },
+      {
+        "key":"2",
+        "school":"Analista Programador Universitario",
+        "degree":"UNPSJB -  Universidad Nacional de la Patagonia San Juan Bosco",
+        "graduated":"Diciembre 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"CDF (Colegio Salesiano Dean Funes)",
+        "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
+        "years":" Marzo 2013 - A la actualidad",
+        "description":""
+      },
+      {
+        "company":"Escuela n° 707 - Ministerio de Educación del Chubut",
+        "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
+        "years":"Marzo 2010 - A la actualidad",
+        "description":""
+      }
+    ],
+
+    "skills":[
+
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
