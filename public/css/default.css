@@ -223,7 +223,7 @@ blockquote cite a:visited { color: #8B9798; border: none }
 /* ---------------------------------------------------------------------
 /*  Pull Quotes Markup
 /*
-    <aside class="pull-quote">
+    <aside className="pull-quote">
 		<blockquote>
 			<p></p>
 		</blockquote>
@@ -322,7 +322,7 @@ li p { } */
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
 
-    <ul class="stats-tabs">
+    <ul className="stats-tabs">
 		<li><a href="#">[value]<b>[name]</b></a></li>
 	 </ul>
 

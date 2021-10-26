@@ -30,7 +30,7 @@ class Contact extends Component {
               
               <p className="sendemail">
                 <a className="sendemail" href="mailto:davidolivera8989@gmail.com">
-              <i class="fa fa-envelope-o"></i>
+              <i className="fa fa-envelope-o"></i>
             </a>
         </p>
                 

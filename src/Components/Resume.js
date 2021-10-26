@@ -2,14 +2,14 @@ import React, { Component } from "react";
 import Slide from "react-reveal";
 
 class Resume extends Component {
-  getRandomColor() {
+ /*  getRandomColor() {
     let letters = "0123456789ABCDEF";
     let color = "#";
     for (let i = 0; i < 6; i++) {
       color += letters[Math.floor(Math.random() * 16)];
     }
     return color;
-  }
+  } */
 
   render() {
     if (!this.props.data) return null;
@@ -21,8 +21,9 @@ class Resume extends Component {
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} 
+          </p>  
             <p className="date"><span>&bull;</span>{education.graduated}</p>
-          </p>
+          
           <p>{education.description}</p>
         </div>
       );
