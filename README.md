@@ -1,6 +1,6 @@
 # Página de presentación de David Olivera (CV) :page_with_curl:
 
-Desarrollado utilizando react, html y css, es una breve presentación mía con la opción de descargar mi [Currículum Vitae](public/CV__DavidOmarOlivera.pdf) para mejorar la difusión.
+Desarrollado utilizando react, html y css, es una breve presentación mía con la opción de descargar mi [Currículum Vitae](public/CV_DavidOmarOlivera.pdf) para mejorar la difusión.
 
 
 # Importante
