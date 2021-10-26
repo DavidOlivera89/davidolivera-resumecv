@@ -11,6 +11,7 @@ class Resume extends Component {
     return color;
   } */
 
+  
   render() {
     if (!this.props.data) return null;
 
