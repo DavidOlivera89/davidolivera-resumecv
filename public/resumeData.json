@@ -4,16 +4,16 @@
     "description":"Software Developer, con título de Analista Programador Universitario y Licenciatura en Informática en proceso (realizando tesis) ",
     "image":"profilepic.jpg",
     "bio":"Mi nombre es David Omar Olivera, estoy a punto de recibirme de Licenciado en Informática y soy programador, poseo el título de Analista Programador Universitario. Me oriento principalmente a la programación web.",
-    "bio1":"Actualmente estoy buscando una oportunidad para poder desarrollar esta profesión en una empresa donde pueda continuar mi crecimiento tanto personal como profesional, ya que desde que terminé el secundario, trabajo como profesor de enseñanza técnica en dos escuelas de mi ciudad. Comencé a trabajar por necesidad cuando ingresé a la universidad pero luego me quedé porque descubrí que la educación también es una de mis pasiones. ",
+    "bio1":"Actualmente y hace más de 5 años me desarrollo como fullstack developer en diferentes proyectos y tecnologías. Además tengo experiencia en educación, ya que mientras estudiaba en la universidad y desde que terminé el secundario trabajé como docente de escuelas técnicas de nivel secundario, principalmente de informática, programación y materias técnicas orientadas a la electromecánica. ",
     "bio2":"Intento continuamente mejorar mis habilidades, aprendiendo, investigando, de manera autodidacta, con documentación o realizando cursos para trabajar de la mejor manera y alcanzar los objetivos que se me presentan.",
-    "bio3":"Considero que poseo muy buenas habilidades interpersonales como la empatía, la comunicación, la responsabilidad y el trabajo en equipo, habilidades que he ido ejercitando considerablemente a lo largo de mi experiencia como docente.",
+    "bio3":"Considero que poseo muy buenas habilidades interpersonales como la empatía, la comunicación, la responsabilidad y el trabajo en equipo, habilidades que he ido ejercitando considerablemente a lo largo de toda mi experiencia laboral.",
     "bio4":"Además de lo anterior algunos de mis otros intereses son la música, el cine, el fútbol y la literatura.",
     "contactmessage":"Si lo desea puede ponerse en contacto conmigo enviándome un mensaje desde aquí, le responderé a la brevedad...",
     "email": "davidolivera8989@gmail.com",
     "phone": "2975945540",
     "github":"https://github.com/davidolivera89",
     "linkedin":"https://www.linkedin.com/in/david-omar-olivera89/",
-    "project":"../CV__DavidOmarOlivera.pdf",
+    "project":"../CV_DavidOmarOlivera.pdf",
     "address":{
       "street":"Comodoro Rivadavia",
       "city":"Chubut -",
@@ -44,7 +44,7 @@
         "key":"1",
         "school":"Licenciado en Informática ",
         "degree":"UNPSJB - Universidad Nacional de la Patagonia San Juan Bosco",
-        "graduated":"En proceso, realizando tesis. Planificado 2022.",
+        "graduated":"En proceso, realizando tesis. Planificado 2024.",
         "description":""
       },
       {
@@ -56,28 +56,34 @@
       }
     ],
     "work":[
+	  {
+        "company":"Baufest",
+        "title":"Fullstack Developer Ssr",
+        "years":"2021 - A la actualidad",
+        "description":""
+      }, 	
       {
         "company":"Municipio de Rada Tilly",
-        "title":"Consultor para Transformación Digital, contrato temporal. Soporte de aplicaciones, desarrollo y asesoramiento para adquisición e implementación de sistemas.",
-        "years":"Mayo 2022 - A la actualidad",
+        "title":"Consultor para Transformación Digital. Soporte de aplicaciones, desarrollo y asesoramiento para adquisición e implementación de sistemas.",
+        "years":"2020 - A la actualidad",
         "description":""
       },
       {
         "company":"Freelance Developer",
         "title":"Desarrollo de software como aplicaciones web, tanto en el front como el back end utilizando diferentes tecnologías dependiendo de los requerimientos del proyecto. En mayor medida he utilzado frameworks y librerias de Javascript como React, Angular, Nodejs con bases de datos relacionales y no relacionales.",
-        "years":"Junio 2021 - A la actualidad",
+        "years":"2017 - A la actualidad",
         "description":""
       },
       {
         "company":"CDF (Colegio Salesiano Dean Funes)",
         "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
-        "years":" Marzo 2013 - A la actualidad",
+        "years":"2013 - 2018",
         "description":""
       },
       {
         "company":"Escuela n° 707 - Ministerio de Educación del Chubut",
         "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
-        "years":"Marzo 2010 - A la actualidad",
+        "years":"2010 - 2018",
         "description":""
       }
     ],
