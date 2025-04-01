@@ -44,7 +44,7 @@
         "key":"1",
         "school":"Licenciado en Informática ",
         "degree":"UNPSJB - Universidad Nacional de la Patagonia San Juan Bosco",
-        "graduated":"En proceso, realizando tesis. Planificado 2024.",
+        "graduated":"Diciembre 2024.",
         "description":""
       },
       {
@@ -54,13 +54,14 @@
         "graduated":"Diciembre 2015",
         "description":""
       }
+      
     ],
     "work":[
 	  {
         "company":"Baufest",
-        "title":"Fullstack Developer Ssr",
+        "title":"Fullstack Developer ",
         "years":"2021 - A la actualidad",
-        "description":""
+        "description":"Diseñé e implementé soluciones con arquitectura de microservicios con Java y Quarkus, desplegadas en Google Cloud Platform (GCP), utilizando tecnologías como Docker, Kubernetes y GitLab CI/CD. Desarrollé soluciones fullstack utilizando Angular y Java (SpringBoot), integrando bases de datos Oracle con consultas avanzadas en PL/SQL."
       }, 	
       {
         "company":"Municipio de Rada Tilly",
@@ -70,20 +71,20 @@
       },
       {
         "company":"Freelance Developer",
-        "title":"Desarrollo de software como aplicaciones web, tanto en el front como el back end utilizando diferentes tecnologías dependiendo de los requerimientos del proyecto. En mayor medida he utilzado frameworks y librerias de Javascript como React, Angular, Nodejs con bases de datos relacionales y no relacionales.",
+        "title":"Desarrollo frontend para optimizar interfaces de sitios web y aplicaciones web con soluciones dinámicas con tecnologías como Angular, y React, mejorando la usabilidad y el rendimiento de plataformas digitales.",
         "years":"2017 - A la actualidad",
         "description":""
       },
       {
         "company":"CDF (Colegio Salesiano Dean Funes)",
         "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
-        "years":"2013 - 2018",
+        "years":"2013 - 2021",
         "description":""
       },
       {
         "company":"Escuela n° 707 - Ministerio de Educación del Chubut",
         "title":"Profesor de Enseñanza Técnica - Nivel Secundario.",
-        "years":"2010 - 2018",
+        "years":"2010 - 2021",
         "description":""
       }
     ],
